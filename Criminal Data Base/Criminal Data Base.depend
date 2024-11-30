@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1671646341 source:e:\new download\onedrive\documents\desktop\criminal data base\main.cpp
+	<iostream>
+	<Criminals.h>
+	"Robbery.h"
+
+1671656087 e:\new download\onedrive\documents\desktop\criminal data base\include\criminals.h
+	<Criminals.h>
+	<string>
+	<iostream>
+
+1671655668 source:e:\new download\onedrive\documents\desktop\criminal data base\src\criminals.cpp
+	<Criminals.h>
+	"Robbery.h"
+	<iostream>
+	<fstream>
+
+1671642057 e:\new download\onedrive\documents\desktop\criminal data base\include\robbery .h
+
+1671641651 source:e:\new download\onedrive\documents\desktop\criminal data base\src\robbery .cpp
+	"Robbery .h"
+	<iostream>
+	<Criminals.h>
+
+1671676132 e:\new download\onedrive\documents\desktop\criminal data base\include\robbery.h
+	<Criminals.h>
+
+1671646546 source:e:\new download\onedrive\documents\desktop\criminal data base\src\robbery.cpp
+	<iostream>
+	"Robbery.h"
+	<Criminals.h>
+
+1671646444 source:e:\new download\onedrive\documents\desktop\criminal data base\src\murder.cpp
+	"Murder.h"
+	<Criminals.h>
+
+1671646444 e:\new download\onedrive\documents\desktop\criminal data base\include\murder.h
+	<Criminals.h>
+
+1671646540 source:e:\new download\onedrive\documents\desktop\criminal data base\src\wrongacts.cpp
+	"WrongActs.h"
+
+1671646539 e:\new download\onedrive\documents\desktop\criminal data base\include\wrongacts.h
+	<Criminals.h>
+
+1672258362 source:d:\criminal data base\main.cpp
+	<iostream>
+	<Criminals.h>
+	"Robbery.h"
+	"Security.h"
+	"WrongActs.h"
+	"Murder.h"
+
+1672297708 d:\criminal data base\include\criminals.h
+	<Criminals.h>
+	<string>
+	<iostream>
+
+1672297708 d:\criminal data base\include\robbery.h
+	"Robbery.h"
+	<Criminals.h>
+
+1672283316 source:d:\criminal data base\src\wrongacts.cpp
+	"WrongActs.h"
+	<iostream>
+	<fstream>
+
+1672283480 d:\criminal data base\include\wrongacts.h
+	<Criminals.h>
+
+1672298450 source:d:\criminal data base\src\criminals.cpp
+	<Criminals.h>
+	"Robbery.h"
+	"Murder.h"
+	"WrongActs.h"
+	"Security.h"
+	<iostream>
+	<fstream>
+
+1672285430 source:d:\criminal data base\src\murder.cpp
+	"Murder.h"
+	<Criminals.h>
+	<fstream>
+
+1672285430 d:\criminal data base\include\murder.h
+	<Criminals.h>
+
+1672297296 source:d:\criminal data base\src\robbery.cpp
+	<iostream>
+	"Robbery.h"
+	<fstream>
+	<string>
+	<Criminals.h>
+
+1672043846 source:d:\criminal data base\security.cpp
+	<iostream>
+	"Security.h"
+	<fstream>
+
+1672044016 d:\criminal data base\security.h
+	<Criminals.h>
+	<fstream>
+
+1672283316 d:\criminal data base\include\security.h
+	<Criminals.h>
+	<fstream>
+
+1672296308 source:d:\criminal data base\src\security.cpp
+	<iostream>
+	"Security.h"
+	<Criminals.h>
+	<fstream>
+
